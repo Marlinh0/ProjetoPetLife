@@ -185,3 +185,7 @@ footer p a {
     color: #FFFFFF;
     text-decoration: none;
 }
+
+#inicio, #clinica, #farmacia, #duvidas{
+    visibility: hidden;
+}
